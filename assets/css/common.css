@@ -1009,7 +1009,7 @@ header .global-nav__list li:first-child {
 header .global-nav__list a {
   display: inline-block;
   color: #fff;
-  font-size: 12rem;
+  font-size: 11rem;
   line-height: 1;
   letter-spacing: 0.1em;
   font-family: "futura_m";
